@@ -43,6 +43,7 @@ coverage.xml
 
 # Large training datasets
 /Asia/India/train-input.zip
+/Africa/Egipt/LMML_Egypt_TRAIN_DATA/models/Qwen3-1.7B-Q8_0.gguf
 
 # Environments & OS files
 .env

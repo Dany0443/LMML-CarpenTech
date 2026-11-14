@@ -1,0 +1,100 @@
+{"depth": "Saqqara", "dynasty": "Thebes", "height": 2050, "mother": null, "reign": "temple @ Karnak"}
+{"cult": "Memphis", "depth": "star * of Amun", "tomb": "Luxor"}
+{"height": "cafe by the Nile", "reign": "Horemheb", "rite": -4}
+{"dynasty": "Amenhotep III", "gold": "Nubia", "rite": "Ra & Isis"}
+{"father": null, "gold": "Giza", "mother": "see notes; p.12", "queen": "Karnak", "rite": null}
+{"province": "50% ruined", "queen": "Memphis", "tomb": true}
+{"city": true, "ratio": true, "temple": 2427, "throne": "Khufu"}
+{"cult": "Akhenaten", "depth": null, "rank": false, "ratio": "50% ruined", "year": "path/to/tomb"}
+{"province": "Ay", "rank": "Saqqara", "year": "price #3 (gold)"}
+{"birth": null, "height": "a\\b\\c", "age": "cafe by the Nile"}
+{"cult": "value = high", "era": "Cleopatra VII", "height": "Amenhotep III", "province": "{sealed}", "rite": "Amun"}
+{"cult": "Horus", "start": "Giza", "width": null}
+{"end": "Saqqara", "name": false, "rank": 0}
+{"dynasty": "star * of Amun", "end": "1+2=3 offerings", "mother": "Hatshepsut", "start": "Ra & Isis"}
+{"gold": "price #3 (gold)", "reign": "Ra", "title": "Hatshepsut"}
+{"father": null, "rank": "Thoth", "role": true}
+{"god": "Horemheb", "height": "Thoth", "king": "No. 7 of dynasty", "province": null}
+{"cult": "Thutmose III", "gold": "Amarna", "start": 0, "tomb": null}
+{"epithet": null, "king": "Memphis", "throne": "he said \"go\""}
+{"end": "Ramesses II", "start": "see notes; p.12", "tomb": 2103, "width": null}
+{"end": true, "era": -41, "god": null}
+{"city": "Hatshepsut", "height": 2458, "scribe": "temple @ Karnak", "temple": 0, "year": "Saqqara"}
+{"end": null, "height": "Set", "title": "Set", "era": "cost: $200", "epithet": null}
+{"epithet": "Set", "father": 2, "tomb": 15, "year": "temple @ Karnak"}
+{"height": "Ay", "name": "Amarna", "width": null}
+{"cult": "Ramesses II", "god": "Giza", "mother": null}
+{"father": -44, "start": "Karnak", "temple": -45, "width": null, "year": "Ra & Isis"}
+{"cult": -47, "era": true, "year": 0}
+{"dynasty": null, "god": 0, "height": "see notes; p.12"}
+{"epithet": 31, "era": null, "queen": "Luxor", "scribe": "Hathor"}
+{"king": "Saqqara", "throne": "price #3 (gold)", "year": "Amarna"}
+{"dynasty": "Isis", "gold": "cafe by the Nile", "king": "Amun", "ratio": "Khufu"}
+{"cult": "Set", "queen": "see notes; p.12", "role": null, "title": 37}
+{"cult": "Sneferu", "dynasty": "Amun", "mother": "god of the underworld!", "name": null}
+{"era": "<inscription>", "height": "Giza", "reign": "Thoth", "throne": "Amarna", "title": "Khufu"}
+{"end": "Amarna", "rank": "Luxor", "role": "Thoth"}
+{"depth": null, "king": "temple @ Karnak", "queen": null, "ratio": "Isis", "temple": "Nefertiti"}
+{"cult": "the Delta", "depth": "Saqqara", "epithet": "Abydos", "gold": null, "king": true}
+{"height": 23, "province": "Thutmose III", "queen": -21, "tomb": "Amarna"}
+{"god": 0, "name": null, "throne": false}
+{"role": null, "temple": 0, "year": "Amun"}
+{"cult": false, "dynasty": "Ay", "queen": "Sneferu", "ratio": null, "year": "Abydos"}
+{"cult": "Nefertiti", "dynasty": "Luxor", "era": "Ptah", "throne": "Abydos", "width": "1+2=3 offerings"}
+{"god": true, "reign": "value = high", "year": "Ra"}
+{"dynasty": "Horus", "era": null, "gold": null, "mother": null, "temple": -57}
+{"era": "Amun", "king": false, "notes": "Cleopatra VII", "scribe": null}
+{"dynasty": "Horus", "queen": "Ramesses II", "throne": "Abydos", "title": "Anubis", "year": "the Delta"}
+{"father": null, "king": 35, "province": "Thutmose III"}
+{"depth": "Karnak", "gold": false, "queen": "Luxor", "width": "see notes; p.12"}
+{"alive": 13, "depth": -56, "father": false}
+{"alive": false, "dynasty": "Abydos", "father": "1+2=3 offerings", "mother": "Abydos", "rank": null, "throne": null, "tomb": "Khufu"}
+{"name": "Ay", "rank": "the Delta", "start": "god of the underworld!", "mother": "temple @ Karnak", "throne": "[restored]", "height": "a\\b\\c", "province": "Nubia"}
+{"age": "Amarna", "cult": -23, "end": -34, "god": "Khufu", "name": "Tutankhamun", "ratio": true, "role": "Thoth", "throne": 22}
+{"city": true, "title": "path/to/tomb", "gold": "<inscription>", "age": 0, "dynasty": "Amenhotep III", "tomb": 976}
+{"age": false, "era": true, "gold": "Thebes", "height": "{sealed}", "name": "Nefertiti", "queen": "Hathor", "rank": "Sneferu", "reign": "Abydos", "scribe": "Memphis"}
+{"alive": null, "depth": 1330, "end": null, "gold": "path/to/tomb", "throne": "Isis", "year": false}
+{"cult": 0, "father": "Amarna", "king": -43, "mother": "price #3 (gold)", "notes": "price #3 (gold)", "rite": false, "start": "Isis", "tomb": false}
+{"age": "Ramesses II", "dynasty": "Djoser", "gold": null, "mother": true, "rank": "Horus", "ratio": "Nubia", "rite": "Karnak", "temple": -52}
+{"cult": null, "dynasty": "Ptah", "end": "Ptah", "epithet": "Karnak", "queen": "Thutmose III", "role": "god of the underworld!", "start": "Amun", "throne": "Menes"}
+{"birth": "Ra", "dynasty": "see notes; p.12", "province": "Cleopatra VII", "rank": "Amenhotep III", "reign": "see notes; p.12", "start": "price #3 (gold)", "throne": "temple @ Karnak"}
+{"depth": "Seti I", "end": "Ra & Isis", "epithet": null, "era": "Khufu", "mother": "he said \"go\"", "rite": 11, "role": "Osiris"}
+{"birth": "Nefertiti", "cult": "Cleopatra VII", "era": "cafe by the Nile", "father": null, "notes": true, "ratio": "Cleopatra VII", "reign": "Luxor", "start": "Cleopatra VII", "title": true}
+{"depth": false, "father": "Ramesses II", "province": null, "temple": "Amun", "tomb": null, "year": null}
+{"dynasty": "Khufu", "god": "Ptah", "gold": "the Delta", "mother": "1+2=3 offerings", "queen": "Sneferu", "rite": "Tutankhamun", "role": "Ptah"}
+{"birth": "Khufu", "cult": "No. 7 of dynasty", "king": "Osiris", "rank": "Ra", "temple": null, "year": "Horus"}
+{"role": "Tutankhamun", "rank": true, "throne": "Horus", "temple": -21, "ratio": "a\\b\\c", "city": "he said \"go\""}
+{"birth": "Amarna", "city": null, "cult": "value = high", "ratio": null, "scribe": "Ra & Isis", "throne": "Khufu"}
+{"city": "Saqqara", "end": "Nubia", "gold": "the Delta", "height": true, "queen": null, "reign": "Djoser", "role": "Memphis", "scribe": "Cleopatra VII", "throne": null}
+{"city": true, "king": "temple @ Karnak", "notes": "Hathor", "reign": "Luxor", "role": null, "tomb": "Akhenaten"}
+{"end": "Abydos", "epithet": "he said \"go\"", "god": -55, "gold": 2275, "king": "god of the underworld!", "rank": 37, "rite": "Thoth"}
+{"depth": "Hatshepsut", "mother": "Memphis", "scribe": "Tutankhamun", "start": "Abydos", "temple": "Hathor", "throne": "<inscription>", "title": true}
+{"province": "Set", "height": "Cleopatra VII", "width": "Ra & Isis", "rite": "Sneferu", "title": "Seti I", "city": "cost: $200"}
+{"birth": "Isis", "cult": "Menes", "end": "temple @ Karnak", "epithet": "Amenhotep III", "gold": true, "ratio": "50% ruined", "temple": "Nubia"}
+{"width": null, "scribe": "Akhenaten", "name": "Thoth", "dynasty": "a\\b\\c", "notes": "Seti I", "title": true}
+{"age": -43, "era": null, "queen": "[restored]", "ratio": "Ay", "role": "Isis", "tomb": "Menes"}
+{"queen": "value = high", "title": 1809, "reign": "Saqqara", "province": "Ptah", "end": "Karnak", "cult": null}
+{"age": "Amarna", "alive": "Akhenaten", "depth": true, "dynasty": "Set", "end": 0, "king": "Sneferu", "province": "Set", "rank": null}
+{"end": "Ay", "god": "Memphis", "king": "star * of Amun", "notes": 5, "reign": "[restored]", "start": "Tutankhamun", "year": "Abydos"}
+{"alive": false, "dynasty": 0, "ratio": "Thebes", "rite": "Thebes", "temple": true, "title": "Giza", "year": "Cleopatra VII"}
+{"alive": "Anubis", "epithet": "the Delta", "gold": "Ramesses II", "scribe": "god of the underworld!", "title": "Abydos", "width": null}
+{"height": 0, "province": true, "king": true, "depth": "a\\b\\c", "role": "Set", "birth": null}
+{"cult": "Ptah", "depth": "Cleopatra VII", "end": "Ra & Isis", "era": "see notes; p.12", "father": "Menes", "name": 26, "province": "see notes; p.12", "scribe": 0}
+{"start": "1+2=3 offerings", "depth": 1100, "queen": "Cleopatra VII", "king": "Hatshepsut", "temple": "Hathor", "alive": true, "father": -1, "name": "god of the underworld!", "notes": "Thoth"}
+{"epithet": null, "era": "Giza", "gold": "Ay", "notes": false, "reign": null, "start": "Set", "temple": "Nubia", "year": 0}
+{"alive": "Amun", "birth": "Saqqara", "city": true, "dynasty": "path/to/tomb", "end": "Abydos", "notes": "Thutmose III", "rite": "star * of Amun"}
+{"birth": false, "cult": true, "rite": "Ay", "role": "Amenhotep III", "scribe": 0, "throne": "Hatshepsut"}
+{"alive": null, "birth": "Ra", "dynasty": "No. 7 of dynasty", "father": null, "gold": null, "notes": -27, "province": -6, "rank": "50% ruined", "width": "Giza"}
+{"era": "Akhenaten", "god": null, "mother": "Giza", "queen": "1+2=3 offerings", "ratio": null, "start": "Amarna"}
+{"epithet": false, "era": "Djoser", "father": 736, "god": false, "rank": "Khufu", "reign": "Saqqara", "scribe": "Menes"}
+{"age": null, "birth": false, "city": "Ay", "dynasty": "Thoth", "height": "Osiris", "province": "Set", "reign": -27, "role": "Amenhotep III"}
+{"cult": "<inscription>", "dynasty": 2395, "gold": "Isis", "height": false, "mother": "Ra", "province": -23, "queen": "Luxor", "rank": "Ay", "reign": "Amenhotep III", "title": 24}
+{"alive": "Amenhotep III", "birth": "Thoth", "depth": "Horus", "epithet": null, "era": "1+2=3 offerings", "height": -44, "mother": null, "province": "Ay", "start": 861, "width": "Amun", "year": null}
+{"alive": true, "depth": "Karnak", "dynasty": "Horemheb", "gold": "Amun", "name": "Ay", "notes": "Amun", "province": "Nubia", "queen": null, "reign": "Tutankhamun", "start": "path/to/tomb"}
+{"birth": "Tutankhamun", "city": "Giza", "dynasty": "Hathor", "epithet": "Thebes", "god": "Ptah", "height": "Luxor", "mother": null, "rank": 0, "temple": "Menes", "throne": null, "width": null}
+{"age": true, "birth": "Cleopatra VII", "era": "Nubia", "father": "<inscription>", "mother": "the Delta", "notes": "Djoser", "rank": "Amenhotep III", "rite": "god of the underworld!", "role": null, "temple": "Amarna", "title": "the Delta", "tomb": true, "width": null}
+{"age": "Horemheb", "cult": "1+2=3 offerings", "end": 2702, "father": "Amun", "god": "Abydos", "height": true, "queen": null, "rite": "Thutmose III", "temple": "<inscription>"}
+{"depth": "Amenhotep III", "end": true, "epithet": "star * of Amun", "god": "Hathor", "height": null, "king": "Ra", "rank": "Thebes", "reign": "Horemheb", "tomb": "<inscription>", "year": 39}
+{"alive": "Nefertiti", "depth": true, "dynasty": "Nubia", "name": false, "province": "price #3 (gold)", "rank": "path/to/tomb", "reign": "Set", "title": "Ra", "tomb": "path/to/tomb"}
+{"city": null, "cult": 0, "end": "Horemheb", "epithet": "Luxor", "father": null, "notes": "Set", "province": -9, "rank": "cafe by the Nile", "ratio": "Horus", "role": null, "start": "Amarna"}
+{"age": "Khufu", "birth": "Osiris", "depth": "1+2=3 offerings", "gold": "Memphis", "king": "Hathor", "mother": "the Delta", "queen": "Memphis", "ratio": "temple @ Karnak", "rite": false, "role": "the Delta", "title": "50% ruined", "tomb": "Anubis"}
