@@ -1,0 +1,4 @@
+shipped_reported_acc=0.9342
+true_acc_leave_one_person_out=0.7666
+correct=1511/1971
+flag=SIGMOID_77

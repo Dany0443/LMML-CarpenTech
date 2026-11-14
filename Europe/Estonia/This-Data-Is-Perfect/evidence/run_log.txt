@@ -1,0 +1,28 @@
+rows: 1971  distinct people (dob+citizenship): 900
+applications per person: {1: 360, 2: 195, 3: 159, 4: 186}
+people with conflicting labels: 0
+negative form_fill_seconds rows: 9
+nearest same-person twin: median 0.0299, max 0.0693
+nearest other person:     median 0.8862, min 0.2812
+rows with a twin: 1611 (81.7%)
+
+shipped pipeline, seed 1137: 0.9342
+
+200-seed 80/20 hold-out sweep
+                                                    variant  mean_acc  sd_acc  min_acc  max_acc
+                       shipped: leaky scaler + row hold-out    0.9453  0.0122   0.9038   0.9722
+                    decoy 1 fixed: scaler fit on train only    0.9449  0.0123   0.9038   0.9722
+real bug fixed: person-grouped hold-out (leaky scaler kept)    0.7677  0.0337   0.6786   0.8538
+         both fixed: person-grouped hold-out + clean scaler    0.7673  0.0339   0.6813   0.8538
+
+decoy 1 paired diff (fixed - shipped): mean -0.0004, sd 0.0012, identical on 79% of seeds
+decoy 2: seed 1137 scored 0.9342; 200-seed mean 0.9453 (sd 0.0122); within 2 sd: True
+decoy 2 fixed with 10-fold row CV: 0.9533; row-level LOO: 0.9594
+row-level LOO with scaler inside folds: 0.9594
+
+leave-one-person-out, scaler inside folds: 0.7666 (1511/1971)
+leave-one-person-out, leaky scaler kept:   0.7671
+grouping by date_of_birth alone:           0.7666
+negative form_fill_seconds clipped to 0:   0.7666
+
+FLAG: SIGMOID_77
