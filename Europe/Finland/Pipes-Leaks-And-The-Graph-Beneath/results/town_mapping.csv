@@ -1,0 +1,651 @@
+raw_name,normalised_key,canonical_town,occurrences
+ Alavus,alavus,Alavus,1
+ Björneborg,bjorneborg,Pori,1
+ Eura,eura,Eura,5
+ Forssa,forssa,Forssa,2
+ Hameenlinna,hameenlinna,Hämeenlinna,1
+ Hamina,hamina,Hamina,1
+ Hango,hango,Hanko,1
+ Hangö,hango,Hanko,1
+ Heinola,heinola,Heinola,1
+ Helsingfors,helsingfors,Helsinki,2
+ Helsinki,helsinki,Helsinki,4
+ Hogfors,hogfors,Karkkila,1
+ Idensalmi,idensalmi,Iisalmi,1
+ Iisalmi,iisalmi,Iisalmi,2
+ Ikaalinen,ikaalinen,Ikaalinen,1
+ Ikalis,ikalis,Ikaalinen,1
+ Ilmajoki,ilmajoki,Ilmajoki,2
+ Imatra,imatra,Imatra,6
+ Inari,inari,Inari,2
+ Inkoo,inkoo,Inkoo,2
+ Jakobstad,jakobstad,Pietarsaari,1
+ Joensuu,joensuu,Joensuu,2
+ Järvenpää,jarvenpaa,Järvenpää,3
+ Kaarina,kaarina,Kaarina,2
+ Kajaani,kajaani,Kajaani,3
+ Kalajoki,kalajoki,Kalajoki,1
+ Kangasala,kangasala,Kangasala,2
+ Kankaanpaa,kankaanpaa,Kankaanpää,2
+ Kauhava,kauhava,Kauhava,3
+ Kauniainen,kauniainen,Kauniainen,1
+ Kemijarvi,kemijarvi,Kemijärvi,1
+ Kemionsaari,kemionsaari,Kemiönsaari,1
+ Kemiönsaari,kemionsaari,Kemiönsaari,1
+ Keuru,keuru,Keuruu,1
+ Keuruu,keuruu,Keuruu,1
+ Kimitoön,kimitoon,Kemiönsaari,1
+ Kirkkonummi,kirkkonummi,Kirkkonummi,1
+ Kittilä,kittila,Kittilä,1
+ Kiuruvesi,kiuruvesi,Kiuruvesi,5
+ Kristiinankaupunki,kristiinankaupunki,Kristiinankaupunki,3
+ Kumo,kumo,Kokemäki,1
+ Kuopio,kuopio,Kuopio,4
+ Kurikka,kurikka,Kurikka,3
+ Kuusamo,kuusamo,Kuusamo,1
+ Kyrkslatt,kyrkslatt,Kirkkonummi,1
+ Lempäälä,lempaala,Lempäälä,1
+ Leppävirta,leppavirta,Leppävirta,1
+ Lieksa,lieksa,Lieksa,5
+ Lieto,lieto,Lieto,1
+ Loimaa,loimaa,Loimaa,1
+ Loviisa,loviisa,Loviisa,1
+ Maalahti,maalahti,Maalahti,1
+ Malax,malax,Maalahti,1
+ Mustasaari,mustasaari,Mustasaari,1
+ Mäntsälä,mantsala,Mäntsälä,1
+ Naantali,naantali,Naantali,2
+ Narpes,narpes,Närpiö,1
+ Nivala,nivala,Nivala,3
+ Nokia,nokia,Nokia,4
+ Nurmes,nurmes,Nurmes,2
+ Nurmijärvi,nurmijarvi,Nurmijärvi,1
+ Nådendal,nadendal,Naantali,1
+ Orimattila,orimattila,Orimattila,1
+ Orivesi,orivesi,Orivesi,9
+ Pietarsaari,pietarsaari,Pietarsaari,1
+ Pirkkala,pirkkala,Pirkkala,2
+ Pori,pori,Pori,2
+ Porvoo,porvoo,Porvoo,1
+ Rauma,rauma,Rauma,1
+ Reso,reso,Raisio,1
+ Riihimäki,riihimaki,Riihimäki,1
+ Saarijärvi,saarijarvi,Saarijärvi,1
+ Salo,salo,Salo,1
+ Seinajoki,seinajoki,Seinäjoki,1
+ Seinäjoki,seinajoki,Seinäjoki,1
+ Sjundea,sjundea,Siuntio,1
+ Sodankylä,sodankyla,Sodankylä,3
+ Somero,somero,Somero,3
+ Tampere,tampere,Tampere,2
+ Tornio,tornio,Tornio,4
+ Turku,turku,Turku,2
+ Tuusula,tuusula,Tuusula,1
+ Ulvila,ulvila,Ulvila,1
+ Uusikaarlepyy,uusikaarlepyy,Uusikaarlepyy,1
+ Valkeakoski,valkeakoski,Valkeakoski,1
+ Varkaus,varkaus,Varkaus,4
+ Vichtis,vichtis,Vihti,1
+ Vihti,vihti,Vihti,2
+ Virmo,virmo,Mynämäki,1
+ Ylivieska,ylivieska,Ylivieska,2
+ Ylojarvi,ylojarvi,Ylöjärvi,2
+ Åbo,abo,Turku,2
+AANEKOSKI,aanekoski,Äänekoski,2
+AKAA,akaa,Akaa,1
+Abo,abo,Turku,1
+Akaa,akaa,Akaa,6
+Akaa ,akaa,Akaa,1
+Akaa.,akaa,Akaa,2
+Alavo,alavo,Alavus,1
+Alavo ,alavo,Alavus,1
+Alavus,alavus,Alavus,3
+Alavus.,alavus,Alavus,1
+Birkala,birkala,Pirkkala,2
+Birkala.,birkala,Pirkkala,1
+Björneborg,bjorneborg,Pori,3
+Borga,borga,Porvoo,1
+Borga ,borga,Porvoo,1
+Borgå,borga,Porvoo,2
+Borgå ,borga,Porvoo,1
+Borgå.,borga,Porvoo,1
+Brahestad,brahestad,Raahe,1
+Brahestad ,brahestad,Raahe,1
+ESPOO,espoo,Espoo,1
+EURA,eura,Eura,1
+Esbo,esbo,Espoo,1
+Esbo.,esbo,Espoo,1
+Espoo,espoo,Espoo,2
+Espoo.,espoo,Espoo,1
+Eura,eura,Eura,22
+Eura ,eura,Eura,3
+Eura.,eura,Eura,4
+FORSSA,forssa,Forssa,3
+Forssa,forssa,Forssa,4
+Forssa.,forssa,Forssa,2
+Fredrikshamn,fredrikshamn,Hamina,1
+GRANKULLA,grankulla,Kauniainen,1
+HARJAVALTA,harjavalta,Harjavalta,3
+HELSINGFORS,helsingfors,Helsinki,1
+HELSINKI,helsinki,Helsinki,5
+HOLLOLA,hollola,Hollola,3
+HYVINGE,hyvinge,Hyvinkää,1
+Hamina,hamina,Hamina,3
+Hamina ,hamina,Hamina,2
+Hango ,hango,Hanko,1
+Hangö,hango,Hanko,1
+Hanko,hanko,Hanko,1
+Hanko ,hanko,Hanko,1
+Hanko.,hanko,Hanko,1
+Harjavalta,harjavalta,Harjavalta,6
+Harjavalta ,harjavalta,Harjavalta,2
+Harjavalta.,harjavalta,Harjavalta,1
+Heinola,heinola,Heinola,10
+Heinola ,heinola,Heinola,1
+Helsingfors,helsingfors,Helsinki,13
+Helsingfors ,helsingfors,Helsinki,1
+Helsingfors.,helsingfors,Helsinki,1
+Helsinki,helsinki,Helsinki,31
+Helsinki ,helsinki,Helsinki,6
+Helsinki.,helsinki,Helsinki,4
+Hollola,hollola,Hollola,1
+Hollola ,hollola,Hollola,1
+Hollola.,hollola,Hollola,1
+Huittinen,huittinen,Huittinen,3
+Huittinen.,huittinen,Huittinen,1
+Hyvinge ,hyvinge,Hyvinkää,2
+Hyvinge.,hyvinge,Hyvinkää,1
+Hyvinkaa,hyvinkaa,Hyvinkää,1
+Hyvinkää,hyvinkaa,Hyvinkää,5
+Hämeenlinna,hameenlinna,Hämeenlinna,1
+Hämeenlinna ,hameenlinna,Hämeenlinna,2
+Hämeenlinna.,hameenlinna,Hämeenlinna,1
+Högfors,hogfors,Karkkila,1
+Högfors.,hogfors,Karkkila,2
+IISALMI,iisalmi,Iisalmi,1
+ILMOLA,ilmola,Ilmajoki,2
+IMATRA,imatra,Imatra,5
+INARI,inari,Inari,2
+INGÅ,inga,Inkoo,1
+INKOO,inkoo,Inkoo,1
+Idensalmi,idensalmi,Iisalmi,1
+Idensalmi ,idensalmi,Iisalmi,1
+Iisalmi,iisalmi,Iisalmi,3
+Iisalmi ,iisalmi,Iisalmi,1
+Ikaalinen,ikaalinen,Ikaalinen,4
+Ikalis ,ikalis,Ikaalinen,1
+Ilmajoki,ilmajoki,Ilmajoki,6
+Ilmajoki ,ilmajoki,Ilmajoki,1
+Ilmola,ilmola,Ilmajoki,4
+Ilmola ,ilmola,Ilmajoki,1
+Imatra,imatra,Imatra,26
+Imatra ,imatra,Imatra,6
+Imatra.,imatra,Imatra,3
+Inari,inari,Inari,13
+Inari.,inari,Inari,1
+Ingå,inga,Inkoo,3
+Inkoo,inkoo,Inkoo,3
+JOENSUU,joensuu,Joensuu,2
+JYVASKYLA,jyvaskyla,Jyväskylä,1
+Jakobstad,jakobstad,Pietarsaari,1
+Jarvenpaa,jarvenpaa,Järvenpää,1
+Joensuu,joensuu,Joensuu,5
+Joensuu ,joensuu,Joensuu,2
+Jyvaskyla,jyvaskyla,Jyväskylä,2
+Jyväskylä,jyvaskyla,Jyväskylä,6
+JÄMSÄ,jamsa,Jämsä,1
+Jämsä,jamsa,Jämsä,4
+Järvenpää,jarvenpaa,Järvenpää,3
+KAJAANI,kajaani,Kajaani,1
+KANGASALA,kangasala,Kangasala,1
+KARLEBY,karleby,Kokkola,1
+KASKINEN,kaskinen,Kaskinen,2
+KAUHAVA,kauhava,Kauhava,2
+KEMIJÄRVI,kemijarvi,Kemijärvi,1
+KEMIÖNSAARI,kemionsaari,Kemiönsaari,2
+KERAVA,kerava,Kerava,1
+KEURUU,keuruu,Keuruu,1
+KIMITOÖN,kimitoon,Kemiönsaari,1
+KIRKKONUMMI,kirkkonummi,Kirkkonummi,1
+KITEE,kitee,Kitee,3
+KIURUVESI,kiuruvesi,Kiuruvesi,2
+KOKEMÄKI,kokemaki,Kokemäki,2
+KOTKA,kotka,Kotka,3
+KOUVOLA,kouvola,Kouvola,1
+KRISTINESTAD,kristinestad,Kristiinankaupunki,1
+KRONOBY,kronoby,Kruunupyy,1
+KRUUNUPYY,kruunupyy,Kruunupyy,1
+KUHMO,kuhmo,Kuhmo,3
+KUOPIO,kuopio,Kuopio,3
+KURIKKA,kurikka,Kurikka,2
+Kaarina,kaarina,Kaarina,2
+Kaarina ,kaarina,Kaarina,2
+Kajaani,kajaani,Kajaani,2
+Kajana,kajana,Kajaani,1
+Kajana ,kajana,Kajaani,1
+Kalajoki,kalajoki,Kalajoki,8
+Kalajoki ,kalajoki,Kalajoki,1
+Kangasala,kangasala,Kangasala,7
+Kangasala.,kangasala,Kangasala,2
+Kankaanpää,kankaanpaa,Kankaanpää,5
+Kankaanpää ,kankaanpaa,Kankaanpää,1
+Karkkila,karkkila,Karkkila,2
+Karkkila ,karkkila,Karkkila,2
+Karkkila.,karkkila,Karkkila,1
+Karleby,karleby,Kokkola,3
+Karleby ,karleby,Kokkola,2
+Kaskinen,kaskinen,Kaskinen,3
+Kaskinen.,kaskinen,Kaskinen,1
+Kaskö,kasko,Kaskinen,1
+Kauhava,kauhava,Kauhava,2
+Kauhava.,kauhava,Kauhava,3
+Kauniainen,kauniainen,Kauniainen,1
+Kauniainen.,kauniainen,Kauniainen,3
+Kemi,kemi,Kemi,14
+Kemi ,kemi,Kemi,1
+Kemi.,kemi,Kemi,2
+Kemijarvi,kemijarvi,Kemijärvi,2
+Kemijärvi,kemijarvi,Kemijärvi,2
+Kemijärvi ,kemijarvi,Kemijärvi,1
+Kemionsaari,kemionsaari,Kemiönsaari,1
+Kemiönsaari,kemionsaari,Kemiönsaari,8
+Kemiönsaari ,kemionsaari,Kemiönsaari,3
+Kemiönsaari.,kemionsaari,Kemiönsaari,3
+Kerava,kerava,Kerava,3
+Kerava.,kerava,Kerava,1
+Kervo,kervo,Kerava,1
+Keuru,keuru,Keuruu,3
+Keuruu,keuruu,Keuruu,2
+Kimitoon,kimitoon,Kemiönsaari,3
+Kimitoön,kimitoon,Kemiönsaari,3
+Kimitoön ,kimitoon,Kemiönsaari,1
+Kirkkonummi,kirkkonummi,Kirkkonummi,4
+Kitee,kitee,Kitee,9
+Kitee ,kitee,Kitee,3
+Kittila ,kittila,Kittilä,1
+Kittilä,kittila,Kittilä,1
+Kittilä.,kittila,Kittilä,2
+Kiuruvesi,kiuruvesi,Kiuruvesi,6
+Kiuruvesi ,kiuruvesi,Kiuruvesi,2
+Kiuruvesi.,kiuruvesi,Kiuruvesi,3
+Kokemäki,kokemaki,Kokemäki,1
+Kokkola,kokkola,Kokkola,5
+Kokkola ,kokkola,Kokkola,1
+Korsholm,korsholm,Mustasaari,1
+Korsholm.,korsholm,Mustasaari,1
+Kotka,kotka,Kotka,12
+Kotka.,kotka,Kotka,2
+Kouvola,kouvola,Kouvola,5
+Kristiinankaupunki,kristiinankaupunki,Kristiinankaupunki,4
+Kristiinankaupunki ,kristiinankaupunki,Kristiinankaupunki,2
+Kristiinankaupunki.,kristiinankaupunki,Kristiinankaupunki,1
+Kristinestad,kristinestad,Kristiinankaupunki,5
+Kristinestad ,kristinestad,Kristiinankaupunki,1
+Kronoby,kronoby,Kruunupyy,1
+Kruunupyy,kruunupyy,Kruunupyy,3
+Kuhmo,kuhmo,Kuhmo,4
+Kuhmo.,kuhmo,Kuhmo,1
+Kumo,kumo,Kokemäki,4
+Kuopio,kuopio,Kuopio,13
+Kuopio ,kuopio,Kuopio,2
+Kurikka,kurikka,Kurikka,9
+Kurikka ,kurikka,Kurikka,2
+Kurikka.,kurikka,Kurikka,5
+Kuusamo,kuusamo,Kuusamo,3
+Kuusamo.,kuusamo,Kuusamo,1
+Kyrkslätt,kyrkslatt,Kirkkonummi,2
+LAPPEENRANTA,lappeenranta,Lappeenranta,1
+LAPPO,lappo,Lapua,1
+LAPUA,lapua,Lapua,2
+LEMPÄÄLÄ,lempaala,Lempäälä,1
+LEPPÄVIRTA,leppavirta,Leppävirta,1
+LIEKSA,lieksa,Lieksa,7
+LOHJA,lohja,Lohja,1
+LOIMAA,loimaa,Loimaa,2
+LUOTO,luoto,Luoto,1
+Lahti,lahti,Lahti,1
+Lahti.,lahti,Lahti,1
+Lahtis,lahtis,Lahti,1
+Lahtis ,lahtis,Lahti,2
+Lappeenranta,lappeenranta,Lappeenranta,8
+Lappeenranta ,lappeenranta,Lappeenranta,1
+Lappo,lappo,Lapua,6
+Lapua,lapua,Lapua,7
+Larsmo,larsmo,Luoto,1
+Larsmo.,larsmo,Luoto,1
+Lempaala,lempaala,Lempäälä,1
+Lempaala ,lempaala,Lempäälä,1
+Lempäälä,lempaala,Lempäälä,6
+Lempäälä ,lempaala,Lempäälä,1
+Lempäälä.,lempaala,Lempäälä,1
+Leppavirta ,leppavirta,Leppävirta,1
+Leppävirta,leppavirta,Leppävirta,4
+Lieksa,lieksa,Lieksa,24
+Lieksa ,lieksa,Lieksa,6
+Lieksa.,lieksa,Lieksa,7
+Lieto,lieto,Lieto,1
+Lieto.,lieto,Lieto,1
+Lohja,lohja,Lohja,5
+Loimaa,loimaa,Loimaa,6
+Lojo,lojo,Lohja,1
+Lojo ,lojo,Lohja,1
+Loviisa,loviisa,Loviisa,3
+Loviisa.,loviisa,Loviisa,1
+Lovisa,lovisa,Loviisa,1
+Lovisa.,lovisa,Loviisa,1
+Luoto,luoto,Luoto,3
+MUSTASAARI,mustasaari,Mustasaari,2
+Maalahti,maalahti,Maalahti,4
+Maalahti ,maalahti,Maalahti,1
+Malax,malax,Maalahti,4
+Malax ,malax,Maalahti,1
+Mantsala,mantsala,Mäntsälä,2
+Mikkeli,mikkeli,Mikkeli,3
+Mikkeli ,mikkeli,Mikkeli,3
+Mikkeli.,mikkeli,Mikkeli,2
+Mustasaari ,mustasaari,Mustasaari,1
+Mustasaari.,mustasaari,Mustasaari,1
+Mynamaki,mynamaki,Mynämäki,1
+Mynämäki,mynamaki,Mynämäki,2
+Mynämäki ,mynamaki,Mynämäki,1
+Mäntsälä,mantsala,Mäntsälä,5
+NAANTALI,naantali,Naantali,1
+NIVALA,nivala,Nivala,2
+NOKIA,nokia,Nokia,2
+NURMES,nurmes,Nurmes,2
+Naantali,naantali,Naantali,7
+Naantali ,naantali,Naantali,1
+Narpes,narpes,Närpiö,1
+Narpio,narpio,Närpiö,2
+Nivala,nivala,Nivala,5
+Nivala ,nivala,Nivala,2
+Nokia,nokia,Nokia,19
+Nokia ,nokia,Nokia,9
+Nokia.,nokia,Nokia,4
+Nurmes,nurmes,Nurmes,2
+Nurmes ,nurmes,Nurmes,1
+Nurmijarvi,nurmijarvi,Nurmijärvi,1
+Nurmijärvi,nurmijarvi,Nurmijärvi,5
+Nystad,nystad,Uusikaupunki,2
+NÄRPES,narpes,Närpiö,4
+NÄRPIÖ,narpio,Närpiö,3
+Närpes,narpes,Närpiö,11
+Närpes ,narpes,Närpiö,1
+Närpes.,narpes,Närpiö,2
+Närpiö,narpio,Närpiö,8
+Närpiö ,narpio,Närpiö,1
+Närpiö.,narpio,Närpiö,5
+Nådendal ,nadendal,Naantali,3
+Nådendal.,nadendal,Naantali,1
+ORIMATTILA,orimattila,Orimattila,1
+ORIVESI,orivesi,Orivesi,6
+OULU,oulu,Oulu,1
+Orimattila,orimattila,Orimattila,10
+Orivesi,orivesi,Orivesi,44
+Orivesi ,orivesi,Orivesi,5
+Oulu,oulu,Oulu,4
+Oulu ,oulu,Oulu,2
+PIEKSAMAKI,pieksamaki,Pieksämäki,1
+PIEKSÄMÄKI,pieksamaki,Pieksämäki,1
+PIETARSAARI,pietarsaari,Pietarsaari,1
+PORVOO,porvoo,Porvoo,1
+Parainen,parainen,Parainen,1
+Parainen ,parainen,Parainen,1
+Parainen.,parainen,Parainen,2
+Pargas,pargas,Parainen,1
+Pargas ,pargas,Parainen,1
+Pieksamaki,pieksamaki,Pieksämäki,2
+Pieksamaki.,pieksamaki,Pieksämäki,1
+Pieksämäki,pieksamaki,Pieksämäki,4
+Pieksämäki ,pieksamaki,Pieksämäki,1
+Pietarsaari,pietarsaari,Pietarsaari,1
+Pirkkala,pirkkala,Pirkkala,7
+Pirkkala ,pirkkala,Pirkkala,1
+Pirkkala.,pirkkala,Pirkkala,1
+Pori,pori,Pori,3
+Pori ,pori,Pori,2
+Porvoo,porvoo,Porvoo,5
+Porvoo ,porvoo,Porvoo,2
+Porvoo.,porvoo,Porvoo,1
+RAASEPORI,raasepori,Raasepori,1
+RAISIO,raisio,Raisio,3
+RAUMA,rauma,Rauma,2
+RESO,reso,Raisio,2
+RIIHIMÄKI,riihimaki,Riihimäki,2
+ROVANIEMI,rovaniemi,Rovaniemi,1
+Raahe,raahe,Raahe,1
+Raahe ,raahe,Raahe,1
+Raasepori,raasepori,Raasepori,3
+Raisio,raisio,Raisio,1
+Raseborg,raseborg,Raasepori,2
+Raseborg.,raseborg,Raasepori,1
+Rauma,rauma,Rauma,12
+Rauma ,rauma,Rauma,2
+Rauma.,rauma,Rauma,1
+Raumo,raumo,Rauma,6
+Raumo ,raumo,Rauma,1
+Raumo.,raumo,Rauma,1
+Reso,reso,Raisio,1
+Riihimaki,riihimaki,Riihimäki,2
+Riihimäki,riihimaki,Riihimäki,1
+Riihimäki.,riihimaki,Riihimäki,3
+Rovaniemi,rovaniemi,Rovaniemi,5
+Rovaniemi ,rovaniemi,Rovaniemi,2
+Rovaniemi.,rovaniemi,Rovaniemi,2
+S:t Karins,s:t karins,Kaarina,1
+S:t Karins ,s:t karins,Kaarina,1
+S:t Karins.,s:t karins,Kaarina,1
+S:t Michel,s:t michel,Mikkeli,2
+SAARIJÄRVI,saarijarvi,Saarijärvi,1
+SEINÄJOKI,seinajoki,Seinäjoki,2
+SIILINJARVI,siilinjarvi,Siilinjärvi,1
+SIUNTIO,siuntio,Siuntio,1
+SJUNDEÅ,sjundea,Siuntio,1
+SODANKYLÄ,sodankyla,Sodankylä,1
+SOMERO,somero,Somero,2
+SOTKAMO,sotkamo,Sotkamo,1
+SUONENJOKI,suonenjoki,Suonenjoki,2
+Saarijarvi,saarijarvi,Saarijärvi,1
+Saarijärvi,saarijarvi,Saarijärvi,3
+Salo,salo,Salo,3
+Salo.,salo,Salo,2
+Savonlinna,savonlinna,Savonlinna,6
+Savonlinna ,savonlinna,Savonlinna,1
+Savonlinna.,savonlinna,Savonlinna,2
+Seinajoki,seinajoki,Seinäjoki,1
+Seinajoki.,seinajoki,Seinäjoki,1
+Seinäjoki,seinajoki,Seinäjoki,1
+Seinäjoki ,seinajoki,Seinäjoki,1
+Seinäjoki.,seinajoki,Seinäjoki,1
+Sibbo,sibbo,Sipoo,3
+Siilinjärvi,siilinjarvi,Siilinjärvi,6
+Siilinjärvi ,siilinjarvi,Siilinjärvi,1
+Siilinjärvi.,siilinjarvi,Siilinjärvi,2
+Sipoo,sipoo,Sipoo,4
+Sipoo.,sipoo,Sipoo,1
+Siuntio,siuntio,Siuntio,7
+Sjundea,sjundea,Siuntio,1
+Sjundeå,sjundea,Siuntio,1
+Sodankyla,sodankyla,Sodankylä,1
+Sodankyla ,sodankyla,Sodankylä,2
+Sodankyla.,sodankyla,Sodankylä,1
+Sodankylä,sodankyla,Sodankylä,3
+Sodankylä ,sodankyla,Sodankylä,1
+Somero,somero,Somero,13
+Somero.,somero,Somero,1
+Sotkamo,sotkamo,Sotkamo,8
+Sotkamo.,sotkamo,Sotkamo,2
+Suonenjoki,suonenjoki,Suonenjoki,2
+Suonenjoki ,suonenjoki,Suonenjoki,1
+Suonenjoki.,suonenjoki,Suonenjoki,1
+TAMPERE,tampere,Tampere,1
+TORNEA,tornea,Tornio,1
+TORNEÅ,tornea,Tornio,1
+TORNIO,tornio,Tornio,4
+TUUSULA,tuusula,Tuusula,1
+Tammerfors,tammerfors,Tampere,1
+Tammerfors ,tammerfors,Tampere,1
+Tammerfors.,tammerfors,Tampere,1
+Tampere,tampere,Tampere,4
+Tampere ,tampere,Tampere,2
+Tampere.,tampere,Tampere,2
+Tavastehus,tavastehus,Hämeenlinna,1
+Tornea,tornea,Tornio,2
+Torneå,tornea,Tornio,7
+Torneå ,tornea,Tornio,1
+Torneå.,tornea,Tornio,1
+Tornio,tornio,Tornio,22
+Tornio ,tornio,Tornio,1
+Tornio.,tornio,Tornio,4
+Turku,turku,Turku,5
+Turku ,turku,Turku,1
+Turku.,turku,Turku,2
+Tusby,tusby,Tuusula,4
+Tuusula,tuusula,Tuusula,2
+Tuusula ,tuusula,Tuusula,1
+UUSIKAUPUNKI,uusikaupunki,Uusikaupunki,1
+Uleåborg,uleaborg,Oulu,2
+Ulvila,ulvila,Ulvila,3
+Ulvila ,ulvila,Ulvila,1
+Ulvsby,ulvsby,Ulvila,3
+Uusikaarlepyy,uusikaarlepyy,Uusikaarlepyy,3
+Uusikaarlepyy.,uusikaarlepyy,Uusikaarlepyy,1
+Uusikaupunki,uusikaupunki,Uusikaupunki,4
+Uusikaupunki ,uusikaupunki,Uusikaupunki,1
+Uusikaupunki.,uusikaupunki,Uusikaupunki,1
+VAASA,vaasa,Vaasa,1
+VALKEAKOSKI,valkeakoski,Valkeakoski,1
+VARKAUS,varkaus,Varkaus,2
+VOYRI,voyri,Vöyri,1
+Vaasa,vaasa,Vaasa,2
+Vaasa.,vaasa,Vaasa,1
+Valkeakoski,valkeakoski,Valkeakoski,15
+Valkeakoski ,valkeakoski,Valkeakoski,1
+Valkeakoski.,valkeakoski,Valkeakoski,2
+Vanda,vanda,Vantaa,1
+Vantaa,vantaa,Vantaa,5
+Vantaa.,vantaa,Vantaa,1
+Varkaus,varkaus,Varkaus,10
+Varkaus ,varkaus,Varkaus,1
+Varkaus.,varkaus,Varkaus,2
+Vasa,vasa,Vaasa,1
+Vichtis ,vichtis,Vihti,3
+Vihti,vihti,Vihti,2
+Villmanstrand,villmanstrand,Lappeenranta,4
+Virmo,virmo,Mynämäki,1
+Virmo.,virmo,Mynämäki,1
+Voyri,voyri,Vöyri,4
+Vörå ,vora,Vöyri,1
+YLÖJÄRVI,ylojarvi,Ylöjärvi,1
+Ylivieska,ylivieska,Ylivieska,5
+Ylivieska.,ylivieska,Ylivieska,1
+Ylojarvi,ylojarvi,Ylöjärvi,1
+Ylojarvi ,ylojarvi,Ylöjärvi,3
+Ylojarvi.,ylojarvi,Ylöjärvi,1
+Ylöjärvi,ylojarvi,Ylöjärvi,4
+Ylöjärvi ,ylojarvi,Ylöjärvi,1
+akaa,akaa,Akaa,2
+björneborg,bjorneborg,Pori,2
+brahestad,brahestad,Raahe,1
+esbo,esbo,Espoo,1
+espoo,espoo,Espoo,1
+eura,eura,Eura,4
+grankulla,grankulla,Kauniainen,2
+hamina,hamina,Hamina,1
+hanko,hanko,Hanko,2
+heinola,heinola,Heinola,1
+helsingfors,helsingfors,Helsinki,4
+helsinki,helsinki,Helsinki,7
+huittinen,huittinen,Huittinen,1
+hämeenlinna,hameenlinna,Hämeenlinna,1
+idensalmi,idensalmi,Iisalmi,2
+iisalmi,iisalmi,Iisalmi,1
+ikaalinen,ikaalinen,Ikaalinen,1
+ilmajoki,ilmajoki,Ilmajoki,1
+imatra,imatra,Imatra,6
+inari,inari,Inari,4
+inkoo,inkoo,Inkoo,1
+joensuu,joensuu,Joensuu,2
+jyväskylä,jyvaskyla,Jyväskylä,1
+järvenpää,jarvenpaa,Järvenpää,1
+kaarina,kaarina,Kaarina,2
+kalajoki,kalajoki,Kalajoki,2
+kankaanpää,kankaanpaa,Kankaanpää,1
+karkkila,karkkila,Karkkila,3
+kauhava,kauhava,Kauhava,2
+kauniainen,kauniainen,Kauniainen,1
+kemi,kemi,Kemi,1
+kemiönsaari,kemionsaari,Kemiönsaari,3
+kirkkonummi,kirkkonummi,Kirkkonummi,1
+kitee,kitee,Kitee,1
+kittilä,kittila,Kittilä,1
+kiuruvesi,kiuruvesi,Kiuruvesi,1
+kotka,kotka,Kotka,2
+kristiinankaupunki,kristiinankaupunki,Kristiinankaupunki,3
+kristinestad,kristinestad,Kristiinankaupunki,1
+kronoby,kronoby,Kruunupyy,2
+kuhmo,kuhmo,Kuhmo,1
+kuopio,kuopio,Kuopio,1
+kuusamo,kuusamo,Kuusamo,3
+kyrkslätt,kyrkslatt,Kirkkonummi,1
+lappeenranta,lappeenranta,Lappeenranta,3
+lapua,lapua,Lapua,1
+lempaala,lempaala,Lempäälä,2
+lieksa,lieksa,Lieksa,4
+lieto,lieto,Lieto,1
+loimaa,loimaa,Loimaa,1
+loviisa,loviisa,Loviisa,1
+lundo,lundo,Lieto,1
+luoto,luoto,Luoto,1
+mikkeli,mikkeli,Mikkeli,1
+mustasaari,mustasaari,Mustasaari,2
+mynämäki,mynamaki,Mynämäki,1
+mäntsälä,mantsala,Mäntsälä,2
+naantali,naantali,Naantali,2
+narpio,narpio,Närpiö,1
+nivala,nivala,Nivala,3
+nokia,nokia,Nokia,7
+nykarleby,nykarleby,Uusikaarlepyy,1
+nystad,nystad,Uusikaupunki,1
+närpiö,narpio,Närpiö,3
+orivesi,orivesi,Orivesi,5
+pieksämäki,pieksamaki,Pieksämäki,1
+pietarsaari,pietarsaari,Pietarsaari,1
+pirkkala,pirkkala,Pirkkala,1
+pori,pori,Pori,3
+porvoo,porvoo,Porvoo,1
+raahe,raahe,Raahe,3
+rauma,rauma,Rauma,2
+raumo,raumo,Rauma,1
+s:t karins,s:t karins,Kaarina,3
+saarijarvi,saarijarvi,Saarijärvi,1
+saarijärvi,saarijarvi,Saarijärvi,1
+savonlinna,savonlinna,Savonlinna,1
+sibbo,sibbo,Sipoo,1
+sipoo,sipoo,Sipoo,2
+sodankyla,sodankyla,Sodankylä,1
+sodankylä,sodankyla,Sodankylä,2
+somero,somero,Somero,2
+sotkamo,sotkamo,Sotkamo,4
+suonenjoki,suonenjoki,Suonenjoki,4
+tornea,tornea,Tornio,1
+torneå,tornea,Tornio,4
+tornio,tornio,Tornio,4
+traskanda,traskanda,Järvenpää,1
+ulvila,ulvila,Ulvila,1
+uusikaarlepyy,uusikaarlepyy,Uusikaarlepyy,2
+uusikaupunki,uusikaupunki,Uusikaupunki,1
+valkeakoski,valkeakoski,Valkeakoski,3
+vantaa,vantaa,Vantaa,3
+vihti,vihti,Vihti,2
+virmo,virmo,Mynämäki,1
+ylöjärvi,ylojarvi,Ylöjärvi,2
+ÄÄNEKOSKI,aanekoski,Äänekoski,1
+Äänekoski,aanekoski,Äänekoski,8
+Äänekoski ,aanekoski,Äänekoski,1
+Äänekoski.,aanekoski,Äänekoski,4
+ÅBO,abo,Turku,2
+Åbo,abo,Turku,2
+Åbo ,abo,Turku,1
+äänekoski,aanekoski,Äänekoski,3
+åbo,abo,Turku,1

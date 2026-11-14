@@ -1,0 +1,9 @@
+{
+  "raw_rows": 838,
+  "raw_name_variants": 650,
+  "clean_towns": 116,
+  "clean_connections": 448,
+  "duplicate_rows": 390,
+  "self_routes": 0,
+  "flag": "SIGMOID_HOTLINE"
+}
