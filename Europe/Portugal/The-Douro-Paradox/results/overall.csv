@@ -1,0 +1,3 @@
+group,treatment,successes,plots,success_rate
+overall,control,447,1653,0.27041742286751363
+overall,treatment,585,1890,0.30952380952380953

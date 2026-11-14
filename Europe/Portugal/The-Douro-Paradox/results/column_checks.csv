@@ -1,0 +1,15 @@
+column,grouping,eligible_splits_or_groups,complete_reversals
+soil_depth_cm,"two contiguous numeric groups, >=30 per arm",79,0
+trellis_system,categorical groups,3,0
+vineyard_age_group,categorical groups,3,0
+sun_hours_july,"two contiguous numeric groups, >=30 per arm",102,0
+vine_density_per_ha,"two contiguous numeric groups, >=30 per arm",1705,0
+cooperative,categorical groups,12,0
+annual_rainfall_mm,"two contiguous numeric groups, >=30 per arm",483,0
+grape_variety,categorical groups,3,0
+distance_from_porto_km,"two contiguous numeric groups, >=30 per arm",1039,11
+organic_certified,categorical groups,2,0
+elevation_m,"two contiguous numeric groups, >=30 per arm",1844,0
+soil_ph,"two contiguous numeric groups, >=30 per arm",140,0
+harvest_month,categorical groups,2,0
+slope_aspect,categorical groups,4,0

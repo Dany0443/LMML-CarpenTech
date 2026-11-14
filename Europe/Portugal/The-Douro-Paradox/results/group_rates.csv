@@ -1,0 +1,5 @@
+group,treatment,successes,plots,success_rate
+<=110 km,control,312,1233,0.25304136253041365
+<=110 km,treatment,36,144,0.25
+>110 km,control,135,420,0.32142857142857145
+>110 km,treatment,549,1746,0.31443298969072164

@@ -1,0 +1,9 @@
+{
+  "plots": 3543,
+  "column": "distance_from_porto_km",
+  "cutoff_km": 110,
+  "gap_below_cutoff": 104,
+  "gap_above_cutoff": 114,
+  "flag": "SIGMOID_DISTANCE_FROM_PORTO_KM",
+  "search_scope": "observed categorical levels and binary numeric thresholds with at least 30 plots per arm in both groups"
+}
