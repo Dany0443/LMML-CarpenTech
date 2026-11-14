@@ -1,0 +1,87 @@
+{
+  "full_stream": {
+    "score": 98.6271663778163,
+    "f1": 0.9844020797227037,
+    "precision": 0.9793103448275862,
+    "recall": 0.9895470383275261,
+    "type_recall": {
+      "point": 1.0,
+      "drift": 0.9833333333333333,
+      "collective": 1.0
+    },
+    "true_positives": 284,
+    "false_positives": 6,
+    "false_negatives": 3,
+    "readings": 3600
+  },
+  "development_first_half": {
+    "score": 98.7434554973822,
+    "f1": 0.9842931937172775,
+    "precision": 0.9690721649484536,
+    "recall": 1.0,
+    "type_recall": {
+      "point": 1.0,
+      "drift": 1.0,
+      "collective": 1.0
+    },
+    "true_positives": 94,
+    "false_positives": 3,
+    "false_negatives": 0,
+    "readings": 1800
+  },
+  "chronological_later_half": {
+    "score": 98.56897668393782,
+    "f1": 0.9844559585492227,
+    "precision": 0.9844559585492227,
+    "recall": 0.9844559585492227,
+    "type_recall": {
+      "point": 1.0,
+      "drift": 0.975,
+      "collective": 1.0
+    },
+    "true_positives": 190,
+    "false_positives": 3,
+    "false_negatives": 3,
+    "readings": 1800
+  },
+  "zone_scores": {
+    "north_gallery": {
+      "score": 98.75389408099689,
+      "f1": 0.9844236760124611,
+      "precision": 0.9693251533742331,
+      "recall": 1.0,
+      "type_recall": {
+        "point": 1.0,
+        "drift": 1.0,
+        "collective": 1.0
+      },
+      "true_positives": 158,
+      "false_positives": 5,
+      "false_negatives": 0,
+      "readings": 1800
+    },
+    "south_gallery": {
+      "score": 98.37500000000001,
+      "f1": 0.984375,
+      "precision": 0.9921259842519685,
+      "recall": 0.9767441860465116,
+      "type_recall": {
+        "point": 1.0,
+        "drift": 0.95,
+        "collective": 1.0
+      },
+      "true_positives": 126,
+      "false_positives": 1,
+      "false_negatives": 3,
+      "readings": 1800
+    }
+  },
+  "update_seconds": 0.03517115399881732,
+  "python_version": "3.11.17",
+  "serialized_state_bytes": 968,
+  "detector_sha256": "b5d5d59171f1408ce3934360cd198722e20ae5f6697d61b46619d82548831980",
+  "input_sha256": {
+    "train-input.csv": "30d2f7db50d742619de7b63613c8e90f74819a6c3ae971e1c0fcfcaded12be90",
+    "train-output.csv": "659e781a94b66610e19de1900b47270ea3de145dca15598d48fa8c939186eb46"
+  }
+}
