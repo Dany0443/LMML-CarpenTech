@@ -1,0 +1,10 @@
+{
+  "receipts": 577,
+  "fair_receipts": 77,
+  "rejected_receipts": 500,
+  "checked_cells": 57,
+  "board_shape": [
+    6,
+    21
+  ]
+}
