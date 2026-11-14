@@ -1,0 +1,136 @@
+{"n": 1, "x": [0.4, 0.4, 0.4, 0.4, 0.4], "y": 2.48, "phase": "local factorial design"}
+{"n": 2, "x": [0.4, 0.4, 0.4, 0.4, 0.6], "y": 2.44, "phase": "local factorial design"}
+{"n": 3, "x": [0.4, 0.4, 0.4, 0.6, 0.4], "y": 2.48, "phase": "local factorial design"}
+{"n": 4, "x": [0.4, 0.4, 0.4, 0.6, 0.6], "y": 2.44, "phase": "local factorial design"}
+{"n": 5, "x": [0.4, 0.4, 0.6, 0.4, 0.4], "y": 2.64, "phase": "local factorial design"}
+{"n": 6, "x": [0.4, 0.4, 0.6, 0.4, 0.6], "y": 2.44, "phase": "local factorial design"}
+{"n": 7, "x": [0.4, 0.4, 0.6, 0.6, 0.4], "y": 2.64, "phase": "local factorial design"}
+{"n": 8, "x": [0.4, 0.4, 0.6, 0.6, 0.6], "y": 2.44, "phase": "local factorial design"}
+{"n": 9, "x": [0.4, 0.6, 0.4, 0.4, 0.4], "y": 2.48, "phase": "local factorial design"}
+{"n": 10, "x": [0.4, 0.6, 0.4, 0.4, 0.6], "y": 2.44, "phase": "local factorial design"}
+{"n": 11, "x": [0.4, 0.6, 0.4, 0.6, 0.4], "y": 2.48, "phase": "local factorial design"}
+{"n": 12, "x": [0.4, 0.6, 0.4, 0.6, 0.6], "y": 2.44, "phase": "local factorial design"}
+{"n": 13, "x": [0.4, 0.6, 0.6, 0.4, 0.4], "y": 2.64, "phase": "local factorial design"}
+{"n": 14, "x": [0.4, 0.6, 0.6, 0.4, 0.6], "y": 2.44, "phase": "local factorial design"}
+{"n": 15, "x": [0.4, 0.6, 0.6, 0.6, 0.4], "y": 2.64, "phase": "local factorial design"}
+{"n": 16, "x": [0.4, 0.6, 0.6, 0.6, 0.6], "y": 2.44, "phase": "local factorial design"}
+{"n": 17, "x": [0.6, 0.4, 0.4, 0.4, 0.4], "y": 2.78, "phase": "local factorial design"}
+{"n": 18, "x": [0.6, 0.4, 0.4, 0.4, 0.6], "y": 2.74, "phase": "local factorial design"}
+{"n": 19, "x": [0.6, 0.4, 0.4, 0.6, 0.4], "y": 2.78, "phase": "local factorial design"}
+{"n": 20, "x": [0.6, 0.4, 0.4, 0.6, 0.6], "y": 2.74, "phase": "local factorial design"}
+{"n": 21, "x": [0.6, 0.4, 0.6, 0.4, 0.4], "y": 2.94, "phase": "local factorial design"}
+{"n": 22, "x": [0.6, 0.4, 0.6, 0.4, 0.6], "y": 2.74, "phase": "local factorial design"}
+{"n": 23, "x": [0.6, 0.4, 0.6, 0.6, 0.4], "y": 2.94, "phase": "local factorial design"}
+{"n": 24, "x": [0.6, 0.4, 0.6, 0.6, 0.6], "y": 2.74, "phase": "local factorial design"}
+{"n": 25, "x": [0.6, 0.6, 0.4, 0.4, 0.4], "y": 2.78, "phase": "local factorial design"}
+{"n": 26, "x": [0.6, 0.6, 0.4, 0.4, 0.6], "y": 2.74, "phase": "local factorial design"}
+{"n": 27, "x": [0.6, 0.6, 0.4, 0.6, 0.4], "y": 2.78, "phase": "local factorial design"}
+{"n": 28, "x": [0.6, 0.6, 0.4, 0.6, 0.6], "y": 2.74, "phase": "local factorial design"}
+{"n": 29, "x": [0.6, 0.6, 0.6, 0.4, 0.4], "y": 2.94, "phase": "local factorial design"}
+{"n": 30, "x": [0.6, 0.6, 0.6, 0.4, 0.6], "y": 2.74, "phase": "local factorial design"}
+{"n": 31, "x": [0.6, 0.6, 0.6, 0.6, 0.4], "y": 2.94, "phase": "local factorial design"}
+{"n": 32, "x": [0.6, 0.6, 0.6, 0.6, 0.6], "y": 2.74, "phase": "local factorial design"}
+{"n": 33, "x": [0.0, 0.0, 0.0, 0.0, 0.0], "y": 1.0, "phase": "global factorial design"}
+{"n": 34, "x": [0.0, 0.0, 0.0, 0.0, 1.0], "y": 2.4, "phase": "global factorial design"}
+{"n": 35, "x": [0.0, 0.0, 0.0, 1.0, 0.0], "y": 1.0, "phase": "global factorial design"}
+{"n": 36, "x": [0.0, 0.0, 0.0, 1.0, 1.0], "y": 2.4, "phase": "global factorial design"}
+{"n": 37, "x": [0.0, 0.0, 1.0, 0.0, 0.0], "y": 3.4, "phase": "global factorial design"}
+{"n": 38, "x": [0.0, 0.0, 1.0, 0.0, 1.0], "y": 0.8, "phase": "global factorial design"}
+{"n": 39, "x": [0.0, 0.0, 1.0, 1.0, 0.0], "y": 3.4, "phase": "global factorial design"}
+{"n": 40, "x": [0.0, 0.0, 1.0, 1.0, 1.0], "y": 0.8, "phase": "global factorial design"}
+{"n": 41, "x": [0.0, 1.0, 0.0, 0.0, 0.0], "y": 1.0, "phase": "global factorial design"}
+{"n": 42, "x": [0.0, 1.0, 0.0, 0.0, 1.0], "y": 2.4, "phase": "global factorial design"}
+{"n": 43, "x": [0.0, 1.0, 0.0, 1.0, 0.0], "y": 1.0, "phase": "global factorial design"}
+{"n": 44, "x": [0.0, 1.0, 0.0, 1.0, 1.0], "y": 2.4, "phase": "global factorial design"}
+{"n": 45, "x": [0.0, 1.0, 1.0, 0.0, 0.0], "y": 3.4, "phase": "global factorial design"}
+{"n": 46, "x": [0.0, 1.0, 1.0, 0.0, 1.0], "y": 0.8, "phase": "global factorial design"}
+{"n": 47, "x": [0.0, 1.0, 1.0, 1.0, 0.0], "y": 3.4, "phase": "global factorial design"}
+{"n": 48, "x": [0.0, 1.0, 1.0, 1.0, 1.0], "y": 0.8, "phase": "global factorial design"}
+{"n": 49, "x": [1.0, 0.0, 0.0, 0.0, 0.0], "y": 2.5, "phase": "global factorial design"}
+{"n": 50, "x": [1.0, 0.0, 0.0, 0.0, 1.0], "y": 3.9, "phase": "global factorial design"}
+{"n": 51, "x": [1.0, 0.0, 0.0, 1.0, 0.0], "y": 4.0, "phase": "global factorial design"}
+{"n": 52, "x": [1.0, 0.0, 0.0, 1.0, 1.0], "y": 5.4, "phase": "global factorial design"}
+{"n": 53, "x": [1.0, 0.0, 1.0, 0.0, 0.0], "y": 4.9, "phase": "global factorial design"}
+{"n": 54, "x": [1.0, 0.0, 1.0, 0.0, 1.0], "y": 2.3, "phase": "global factorial design"}
+{"n": 55, "x": [1.0, 0.0, 1.0, 1.0, 0.0], "y": 6.4, "phase": "global factorial design"}
+{"n": 56, "x": [1.0, 0.0, 1.0, 1.0, 1.0], "y": 3.8, "phase": "global factorial design"}
+{"n": 57, "x": [1.0, 1.0, 0.0, 0.0, 0.0], "y": 2.5, "phase": "global factorial design"}
+{"n": 58, "x": [1.0, 1.0, 0.0, 0.0, 1.0], "y": 3.9, "phase": "global factorial design"}
+{"n": 59, "x": [1.0, 1.0, 0.0, 1.0, 0.0], "y": 4.0, "phase": "global factorial design"}
+{"n": 60, "x": [1.0, 1.0, 0.0, 1.0, 1.0], "y": 5.4, "phase": "global factorial design"}
+{"n": 61, "x": [1.0, 1.0, 1.0, 0.0, 0.0], "y": 4.9, "phase": "global factorial design"}
+{"n": 62, "x": [1.0, 1.0, 1.0, 0.0, 1.0], "y": 2.3, "phase": "global factorial design"}
+{"n": 63, "x": [1.0, 1.0, 1.0, 1.0, 0.0], "y": 6.4, "phase": "global factorial design"}
+{"n": 64, "x": [1.0, 1.0, 1.0, 1.0, 1.0], "y": 3.8, "phase": "global factorial design"}
+{"n": 65, "x": [0.5, 0.0, 0.0, 1.0, 0.0], "y": 1.75, "phase": "boundary bisection"}
+{"n": 66, "x": [0.75, 0.0, 0.0, 1.0, 0.0], "y": 3.625, "phase": "boundary bisection"}
+{"n": 67, "x": [0.625, 0.0, 0.0, 1.0, 0.0], "y": 1.9375, "phase": "boundary bisection"}
+{"n": 68, "x": [0.6875, 0.0, 0.0, 1.0, 0.0], "y": 2.03125, "phase": "boundary bisection"}
+{"n": 69, "x": [0.71875, 0.0, 0.0, 1.0, 0.0], "y": 3.578125, "phase": "boundary bisection"}
+{"n": 70, "x": [0.703125, 0.0, 0.0, 1.0, 0.0], "y": 3.554688, "phase": "boundary bisection"}
+{"n": 71, "x": [0.6953125, 0.0, 0.0, 1.0, 0.0], "y": 2.042969, "phase": "boundary bisection"}
+{"n": 72, "x": [0.69921875, 0.0, 0.0, 1.0, 0.0], "y": 2.048828, "phase": "boundary bisection"}
+{"n": 73, "x": [0.701171875, 0.0, 0.0, 1.0, 0.0], "y": 3.551758, "phase": "boundary bisection"}
+{"n": 74, "x": [0.7001953125, 0.0, 0.0, 1.0, 0.0], "y": 3.550293, "phase": "boundary bisection"}
+{"n": 75, "x": [1.0, 1.0, 1.0, 0.5, 1.0], "y": 2.3, "phase": "boundary bisection"}
+{"n": 76, "x": [1.0, 1.0, 1.0, 0.75, 1.0], "y": 3.8, "phase": "boundary bisection"}
+{"n": 77, "x": [1.0, 1.0, 1.0, 0.625, 1.0], "y": 2.3, "phase": "boundary bisection"}
+{"n": 78, "x": [1.0, 1.0, 1.0, 0.6875, 1.0], "y": 2.3, "phase": "boundary bisection"}
+{"n": 79, "x": [1.0, 1.0, 1.0, 0.71875, 1.0], "y": 3.8, "phase": "boundary bisection"}
+{"n": 80, "x": [1.0, 1.0, 1.0, 0.703125, 1.0], "y": 3.8, "phase": "boundary bisection"}
+{"n": 81, "x": [1.0, 1.0, 1.0, 0.6953125, 1.0], "y": 2.3, "phase": "boundary bisection"}
+{"n": 82, "x": [1.0, 1.0, 1.0, 0.69921875, 1.0], "y": 2.3, "phase": "boundary bisection"}
+{"n": 83, "x": [1.0, 1.0, 1.0, 0.701171875, 1.0], "y": 3.8, "phase": "boundary bisection"}
+{"n": 84, "x": [1.0, 1.0, 1.0, 0.7001953125, 1.0], "y": 3.8, "phase": "boundary bisection"}
+{"n": 85, "x": [0.5, 0.0, 1.0, 1.0, 1.0], "y": 1.55, "phase": "boundary bisection"}
+{"n": 86, "x": [0.75, 0.0, 1.0, 1.0, 1.0], "y": 3.425, "phase": "boundary bisection"}
+{"n": 87, "x": [0.625, 0.0, 1.0, 1.0, 1.0], "y": 1.7375, "phase": "boundary bisection"}
+{"n": 88, "x": [0.6875, 0.0, 1.0, 1.0, 1.0], "y": 1.83125, "phase": "boundary bisection"}
+{"n": 89, "x": [0.71875, 0.0, 1.0, 1.0, 1.0], "y": 3.378125, "phase": "boundary bisection"}
+{"n": 90, "x": [0.703125, 0.0, 1.0, 1.0, 1.0], "y": 3.354687, "phase": "boundary bisection"}
+{"n": 91, "x": [0.6953125, 0.0, 1.0, 1.0, 1.0], "y": 1.842969, "phase": "boundary bisection"}
+{"n": 92, "x": [0.69921875, 0.0, 1.0, 1.0, 1.0], "y": 1.848828, "phase": "boundary bisection"}
+{"n": 93, "x": [0.701171875, 0.0, 1.0, 1.0, 1.0], "y": 3.351758, "phase": "boundary bisection"}
+{"n": 94, "x": [0.7001953125, 0.0, 1.0, 1.0, 1.0], "y": 3.350293, "phase": "boundary bisection"}
+{"n": 95, "x": [0.5, 1.0, 0.0, 1.0, 1.0], "y": 3.15, "phase": "boundary bisection"}
+{"n": 96, "x": [0.75, 1.0, 0.0, 1.0, 1.0], "y": 5.025, "phase": "boundary bisection"}
+{"n": 97, "x": [0.625, 1.0, 0.0, 1.0, 1.0], "y": 3.3375, "phase": "boundary bisection"}
+{"n": 98, "x": [0.6875, 1.0, 0.0, 1.0, 1.0], "y": 3.43125, "phase": "boundary bisection"}
+{"n": 99, "x": [0.71875, 1.0, 0.0, 1.0, 1.0], "y": 4.978125, "phase": "boundary bisection"}
+{"n": 100, "x": [0.703125, 1.0, 0.0, 1.0, 1.0], "y": 4.954688, "phase": "boundary bisection"}
+{"n": 101, "x": [0.6953125, 1.0, 0.0, 1.0, 1.0], "y": 3.442969, "phase": "boundary bisection"}
+{"n": 102, "x": [0.69921875, 1.0, 0.0, 1.0, 1.0], "y": 3.448828, "phase": "boundary bisection"}
+{"n": 103, "x": [0.701171875, 1.0, 0.0, 1.0, 1.0], "y": 4.951758, "phase": "boundary bisection"}
+{"n": 104, "x": [0.7001953125, 1.0, 0.0, 1.0, 1.0], "y": 4.950293, "phase": "boundary bisection"}
+{"n": 105, "x": [0.5, 1.0, 1.0, 1.0, 0.0], "y": 4.15, "phase": "boundary bisection"}
+{"n": 106, "x": [0.75, 1.0, 1.0, 1.0, 0.0], "y": 6.025, "phase": "boundary bisection"}
+{"n": 107, "x": [0.625, 1.0, 1.0, 1.0, 0.0], "y": 4.3375, "phase": "boundary bisection"}
+{"n": 108, "x": [0.6875, 1.0, 1.0, 1.0, 0.0], "y": 4.43125, "phase": "boundary bisection"}
+{"n": 109, "x": [0.71875, 1.0, 1.0, 1.0, 0.0], "y": 5.978125, "phase": "boundary bisection"}
+{"n": 110, "x": [0.703125, 1.0, 1.0, 1.0, 0.0], "y": 5.954688, "phase": "boundary bisection"}
+{"n": 111, "x": [0.6953125, 1.0, 1.0, 1.0, 0.0], "y": 4.442969, "phase": "boundary bisection"}
+{"n": 112, "x": [0.69921875, 1.0, 1.0, 1.0, 0.0], "y": 4.448828, "phase": "boundary bisection"}
+{"n": 113, "x": [0.701171875, 1.0, 1.0, 1.0, 0.0], "y": 5.951758, "phase": "boundary bisection"}
+{"n": 114, "x": [0.7001953125, 1.0, 1.0, 1.0, 0.0], "y": 5.950293, "phase": "boundary bisection"}
+{"n": 115, "x": [1.0, 0.0, 0.0, 0.5, 0.0], "y": 2.5, "phase": "boundary bisection"}
+{"n": 116, "x": [1.0, 0.0, 0.0, 0.75, 0.0], "y": 4.0, "phase": "boundary bisection"}
+{"n": 117, "x": [1.0, 0.0, 0.0, 0.625, 0.0], "y": 2.5, "phase": "boundary bisection"}
+{"n": 118, "x": [1.0, 0.0, 0.0, 0.6875, 0.0], "y": 2.5, "phase": "boundary bisection"}
+{"n": 119, "x": [1.0, 0.0, 0.0, 0.71875, 0.0], "y": 4.0, "phase": "boundary bisection"}
+{"n": 120, "x": [1.0, 0.0, 0.0, 0.703125, 0.0], "y": 4.0, "phase": "boundary bisection"}
+{"n": 121, "x": [1.0, 0.0, 0.0, 0.6953125, 0.0], "y": 2.5, "phase": "boundary bisection"}
+{"n": 122, "x": [1.0, 0.0, 0.0, 0.69921875, 0.0], "y": 2.5, "phase": "boundary bisection"}
+{"n": 123, "x": [1.0, 0.0, 0.0, 0.701171875, 0.0], "y": 4.0, "phase": "boundary bisection"}
+{"n": 124, "x": [1.0, 0.0, 0.0, 0.7001953125, 0.0], "y": 4.0, "phase": "boundary bisection"}
+{"n": 125, "x": [0.8868594552207044, 0.3249426749319163, 0.6414141305749066, 0.793990190475088, 0.12819630770527135], "y": 3.72025, "phase": "independent confirmation"}
+{"n": 126, "x": [0.5092466967201982, 0.45762294362466605, 0.14481855369165936, 0.36942902752710816, 0.5906479181666605], "y": 2.596195, "phase": "independent confirmation"}
+{"n": 127, "x": [0.6920064393440286, 0.6592488470456744, 0.849746060895979, 0.519724860551343, 0.12597153476877326], "y": 3.825585, "phase": "independent confirmation"}
+{"n": 128, "x": [0.560114917216909, 0.7949568854635408, 0.28265341967731283, 0.1102688876869014, 0.3441885981301497], "y": 2.61126, "phase": "independent confirmation"}
+{"n": 129, "x": [0.4238697815817202, 0.34267862502684454, 0.3373679131533004, 0.26378638485544403, 0.6354880113499017], "y": 2.477598, "phase": "independent confirmation"}
+{"n": 130, "x": [0.5962679993309417, 0.3706208293031613, 0.6287067894205992, 0.8108029805503053, 0.33873784477548663], "y": 3.025664, "phase": "independent confirmation"}
+{"n": 131, "x": [0.5629654353125705, 0.46269012612945326, 0.25308562520626954, 0.5862777855909227, 0.3342961626565666], "y": 2.581446, "phase": "independent confirmation"}
+{"n": 132, "x": [0.35704062113818424, 0.11951023530940452, 0.8573546206466169, 0.4946893473799677, 0.7406194032683683], "y": 2.090185, "phase": "independent confirmation"}
+{"n": 133, "x": [0.08461005421928101, 0.9345307564185129, 0.41095070722457394, 0.2081847289771754, 0.6016109666648681], "y": 1.966522, "phase": "independent confirmation"}
+{"n": 134, "x": [0.9476638576107121, 0.8676034593931178, 0.844554195713507, 0.05478288614576985, 0.07063194035498875], "y": 4.308701, "phase": "independent confirmation"}
+{"n": 135, "x": [0.23535984069446944, 0.6182204805276444, 0.44692474326079257, 0.5959123866216084, 0.7867375949075797], "y": 2.120642, "phase": "independent confirmation"}
+{"n": 136, "x": [0.3714993703909206, 0.7484278578999966, 0.7165642598107776, 0.4921911576235327, 0.5323700692727862], "y": 2.496412, "phase": "independent confirmation"}
