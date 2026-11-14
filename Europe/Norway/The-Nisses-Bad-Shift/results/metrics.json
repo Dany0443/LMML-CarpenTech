@@ -1,0 +1,13 @@
+{
+  "practice_rows": 1198,
+  "practice_image_cv_accuracy": 0.9891485809682805,
+  "practice_true_repairs": 36,
+  "practice_false_repairs": 0,
+  "practice_missed_repairs": 0,
+  "practice_repair_f1": 1.0,
+  "validation_limit": "five-fold image predictions; sequence rules and parameters explored on this practice set",
+  "test_rows": 599,
+  "test_proposed_repairs": 30,
+  "model_training_rows": 1797,
+  "model_training_labels": "provided practice truth plus repaired test labels"
+}
