@@ -1,0 +1,16 @@
+{
+  "ring": "ANSEMO",
+  "raw_consensus": "RHGLWQ",
+  "platform_status": "accepted, reported by user",
+  "calibration_readings": 2998,
+  "flag": "SIGMOID_ANSEMO",
+  "candidate_locality": "L5819951",
+  "district": "Cahul",
+  "candidate_readings": 24,
+  "candidate_dates": 23,
+  "candidate_checklists": 24,
+  "distinct_observers": 24,
+  "nearest_registered_stork_km": 74.33577938939422,
+  "maximum_other_stork_distance_km": 3.364017193096134,
+  "exact_raw_consensus_readings": 5
+}
