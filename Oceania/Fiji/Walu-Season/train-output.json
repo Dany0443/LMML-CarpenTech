@@ -1,0 +1,19 @@
+{
+  "description": "Baseline results for starter UCB strategy on practice reef",
+  "strategy": "UCB (Upper Confidence Bound) with initial exploration",
+  "results": {
+    "seed_42": {"avg_catch": 0, "std_catch": 0, "min_catch": 0, "max_catch": 0, "daily_catches": []},
+    "seed_123": {"avg_catch": 0, "std_catch": 0, "min_catch": 0, "max_catch": 0, "daily_catches": []},
+    "seed_456": {"avg_catch": 0, "std_catch": 0, "min_catch": 0, "max_catch": 0, "daily_catches": []},
+    "seed_789": {"avg_catch": 0, "std_catch": 0, "min_catch": 0, "max_catch": 0, "daily_catches": []},
+    "seed_999": {"avg_catch": 0, "std_catch": 0, "min_catch": 0, "max_catch": 0, "daily_catches": []},
+    "seed_111": {"avg_catch": 0, "std_catch": 0, "min_catch": 0, "max_catch": 0, "daily_catches": []},
+    "seed_222": {"avg_catch": 0, "std_catch": 0, "min_catch": 0, "max_catch": 0, "daily_catches": []},
+    "seed_333": {"avg_catch": 0, "std_catch": 0, "min_catch": 0, "max_catch": 0, "daily_catches": []},
+    "seed_444": {"avg_catch": 0, "std_catch": 0, "min_catch": 0, "max_catch": 0, "daily_catches": []},
+    "seed_555": {"avg_catch": 0, "std_catch": 0, "min_catch": 0, "max_catch": 0, "daily_catches": []}
+  },
+  "overall_avg": 0,
+  "overall_std": 0,
+  "note": "Run evaluation_script.py to populate actual results"
+}

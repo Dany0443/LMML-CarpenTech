@@ -1,0 +1,9 @@
+{
+  "description": "Practice dataset for Walu Season challenge",
+  "reef_type": "practice",
+  "seeds": [42, 123, 456, 789, 999, 111, 222, 333, 444, 555],
+  "num_days": 100,
+  "num_spots": 10,
+  "casts_per_day": 1000,
+  "target_avg_catch": 5300
+}
