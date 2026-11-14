@@ -1,97 +1,32 @@
 # The Great American Token Mystery
 
-## Problem Statement
+## Task
 
-When working with language models, tokens are the fundamental unit of text processing. However, different model families and generations use distinct Byte-Pair Encoding (BPE) vocabularies, merge rules, and special tokens. 
+Identify which tokenizer produced a known calibration sequence, then use it to decode a second sequence of token IDs.
 
-In this challenge, we receive a JSON payload (`test-input.json`) containing:
-1. **Calibration Text (`calibration.text`)**: A known plain text snippet.
-2. **Calibration Token IDs (`calibration.token_ids`)**: The exact sequence of integer token IDs produced by encoding the calibration text with an unknown tokenizer.
-3. **Challenge Token IDs (`challenge.token_ids`)**: A mysterious sequence of token IDs that needs to be decoded.
+## Approach
 
-Our objective is to:
-- Identify the exact tokenizer used during calibration without hardcoding any answers.
-- Use that tokenizer to decode the challenge token IDs back into human-readable text.
-- Save the result to `test-output.json` following the required schema:
+The script encodes the calibration text with each supported `tiktoken` encoding and compares the resulting IDs with the supplied sequence. An exact sequence match identifies the candidate. It then decodes the challenge IDs and writes the required JSON output.
 
-```json
-{
-  "tokenizer_id": "identified_tokenizer",
-  "decoded_message": "decoded text"
-}
-```
+## Why it works
 
----
+Each tokenizer has its own vocabulary and segmentation rules, so the same text usually produces different token IDs across encodings. Exact comparison checks the tokenizer directly instead of guessing from whether decoded text looks readable. The candidate order resolves rare cases where a short calibration string matches more than one encoding.
 
-## How Tokenizer Identification Works
+## Supported encodings
 
-The script discovers the correct tokenizer through exact-match verification:
+The candidate pool includes `p50k_base`, `r50k_base`, `cl100k_base`, and `o200k_base`, plus registered fallbacks such as `gpt2`, `p50k_edit`, and `o200k_harmony`. It requires `tiktoken`; it does not identify unrelated tokenizer families such as SentencePiece or custom WordPiece models.
 
-1. **Input Ingestion & Validation**: Reads `test-input.json` and verifies that all expected fields exist and match expected types (strings and lists of integers).
-2. **Candidate Evaluation**: Iterates through candidate encodings in `tiktoken`. It encodes the calibration text using each candidate with `allowed_special="all"` (ensuring special tokens don't trigger unexpected parse failures).
-3. **Exact Matching**: Compares the candidate's encoded token IDs against the provided `calibration.token_ids`. Only an exact list match is accepted.
-4. **Decoding & Serialization**: Once a match is confirmed, the tokenizer's `.decode()` method turns `challenge.token_ids` into text. The result is written to `test-output.json`. If no candidate matches, the script fails fast with an informative error message and a non-zero exit code.
+## Run it
 
----
-
-## Supported Encodings
-
-The primary candidate pool focuses on the canonical OpenAI BPE tokenizers:
-- **`p50k_base`**: Used by Codex models (e.g. `code-davinci-002`) and text completion models like `text-davinci-002` / `text-davinci-003`.
-- **`r50k_base`**: Used by earlier GPT-3 models (e.g. `text-davinci-001`, Curie, Babbage, Ada).
-- **`cl100k_base`**: The standard vocabulary for GPT-3.5-Turbo, GPT-4, and `text-embedding-ada-002`.
-- **`o200k_base`**: The high-capacity vocabulary for GPT-4o, o1, and newer architectures.
-
-Secondary fallback candidates registered in `tiktoken` (such as `gpt2`, `p50k_edit`, and `o200k_harmony`) are also checked if needed, with canonical names prioritized to eliminate ambiguity.
-
----
-
-## Installation & Execution
-
-### 1. Set Up the Environment
-
-From the repository root (`LMML-CarpenTech/`):
+Install the repository dependencies from the root, then run from this folder with `test-input.json` present:
 
 ```bash
-# Create the virtual environment (if not already done)
-python3 -m venv .venv
-
-# Activate it
-source .venv/bin/activate
-
-# Install the minimal dependencies
-pip install -r requirements.txt
+python3 -m pip install -r ../../../requirements.txt
+python3 main.py
 ```
 
-### 2. Run the Task
+The script reads `test-input.json` and writes `test-output.json`.
 
-Navigate to the task folder and place `test-input.json` in that directory:
+## Evidence and limits
 
-```bash
-cd North-America/United-States/The-Great-American-Token-Mystery
-
-# Run the mystery solver
-python main.py
-```
-
-The script will read `test-input.json` from the current working directory and output `test-output.json`.
-
----
-
-## Training Test Results
-
-When tested against the provided sample data in `data/train-input.json`:
-
-- **Detected Tokenizer**: `p50k_base`
-- **Decoded Message**:
-  ```text
-  TRAIN_SAMPLE: Verification successful at the American NLP Observatory. Token IDs map to p50k_base vocabulary!
-  ```
-- **Validation**: The output generated by `main.py` matches `data/train-output.json` byte-for-byte.
-
----
-
-## Known Limitations
-
-- **Scope Restricted to `tiktoken`**: The solver relies on OpenAI BPE vocabularies accessible via `tiktoken`. It cannot identify non-BPE tokenizers or third-party families (such as LLaMA/Mistral SentencePiece or HuggingFace custom WordPiece models) without access to their respective vocabulary and merge files.
-- **Short Calibration Strings**: If a calibration sample is trivial (e.g. an empty string or a single common ASCII character), multiple candidate tokenizers could theoretically produce the same ID. The script prioritizes canonical candidate IDs to handle potential ties gracefully.
+On the supplied practice input, the script identifies `p50k_base` and decodes the message in `data/train-output.json`. The output matches the practice reference byte for byte. A trivial calibration string may not distinguish every candidate, and the script only supports encodings available through `tiktoken`.

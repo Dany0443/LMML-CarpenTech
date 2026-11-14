@@ -1,21 +1,28 @@
 # Twins Separated at Birth
 
+## Task
+
+Find pairs of images that show the same scene, including images that have been mirrored or rotated.
+
 ## Approach
 
-The solution finds pairs of images that show the same scene, including pairs
-where one image is mirrored.
+The script uses perceptual hashes to find likely matches, then checks each candidate with SIFT features and RANSAC. It uses the number and quality of matching features, image coverage, and correlation to decide whether to keep a pair. Accepted pairs are grouped, then expanded into the output CSV.
 
-1. Load images from a directory or archive. The loader also tries to recover
-   images from damaged ZIP files.
-2. Convert images to grayscale and resize only when needed.
-3. Use perceptual DCT hashes, together with rotated and mirrored variants, to
-   quickly generate a small set of possible matches.
-4. Verify each candidate with SIFT feature matching and a ratio test.
-5. Estimate an affine transformation with RANSAC and accept a pair only when
-   it has enough inliers, a strong inlier ratio, good normalized correlation,
-   and sufficient image coverage.
-6. Join accepted matches into groups with a disjoint-set structure and output
-   all valid image pairs as `output.csv`.
+## Why it works
 
-The verification stage keeps the fast hash search from producing false
-matches, while the mirrored variants handle images that were flipped.
+Perceptual hashes make the first search fast. SIFT and geometric checks reject many lookalikes that share only a small region. Rotated and mirrored hash variants help find the same scene in a different orientation.
+
+## Run it
+
+Install NumPy and OpenCV with SIFT support. From this folder, run:
+
+```bash
+python main.py /path/to/images-or-archive
+python evaluate.py output.csv train-output.csv
+```
+
+The original image archive is not included in the repository, so a full rerun needs that archive.
+
+## Evidence and limits
+
+The saved practice output has precision 0.898, recall 0.831, and F1 0.863. These are not perfect results. The team reports platform acceptance. The saved pair files are `output.csv` and `train-output.csv`. A false match can join two unrelated groups; hard crops, major edits, and hash collisions can also cause errors.
