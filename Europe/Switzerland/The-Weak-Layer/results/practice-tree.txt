@@ -1,0 +1,13 @@
+|--- depth_hoar_pct <= 20.00
+|   |--- class: 0
+|--- depth_hoar_pct >  20.00
+|   |--- elevation_m <= 1850.00
+|   |   |--- class: 0
+|   |--- elevation_m >  1850.00
+|   |   |--- mean_grain_roundness <= 0.55
+|   |   |   |--- overburden_load_kpa <= 1.50
+|   |   |   |   |--- class: 0
+|   |   |   |--- overburden_load_kpa >  1.50
+|   |   |   |   |--- class: 1
+|   |   |--- mean_grain_roundness >  0.55
+|   |   |   |--- class: 0

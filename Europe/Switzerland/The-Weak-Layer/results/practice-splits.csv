@@ -1,0 +1,5 @@
+node,depth,feature,threshold,letter
+0,0,depth_hoar_pct,20.0,D
+2,1,elevation_m,1850.0,E
+4,2,mean_grain_roundness,0.550000011920929,M
+5,3,overburden_load_kpa,1.5,O
