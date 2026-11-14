@@ -41,6 +41,9 @@ coverage.xml
 # Jupyter Notebook
 .ipynb_checkpoints
 
+# Large training datasets
+/Asia/India/train-input.zip
+
 # Environments & OS files
 .env
 .env.*
