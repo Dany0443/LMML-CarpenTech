@@ -1,0 +1,70 @@
+{
+  "flag": "SIGMOID_ARES",
+  "selected_model": "ARES",
+  "threshold": 0.5,
+  "encounters": 1000,
+  "catastrophic_threats": 100,
+  "feature_order": [
+    "creature_mass_talents",
+    "oracle_omen",
+    "aggression_index",
+    "divine_aura",
+    "aegis_resonance",
+    "armor_resistance",
+    "witness_count",
+    "styx_disturbance",
+    "omen_intensity"
+  ],
+  "torch_version": "2.6.0+cpu",
+  "comparisons": [
+    {
+      "model": "ARES",
+      "tp": 95,
+      "fp": 45,
+      "tn": 855,
+      "fn": 5,
+      "accuracy": 0.95,
+      "precision": 0.6785714285714286,
+      "recall": 0.95,
+      "specificity": 0.95,
+      "balanced_accuracy": 0.95,
+      "f1": 0.7916666666666666,
+      "f2": 0.8796296296296297
+    },
+    {
+      "model": "ATHENA",
+      "tp": 75,
+      "fp": 25,
+      "tn": 875,
+      "fn": 25,
+      "accuracy": 0.95,
+      "precision": 0.75,
+      "recall": 0.75,
+      "specificity": 0.9722222222222222,
+      "balanced_accuracy": 0.8611111111111112,
+      "f1": 0.75,
+      "f2": 0.75
+    },
+    {
+      "model": "APOLLO",
+      "tp": 55,
+      "fp": 5,
+      "tn": 895,
+      "fn": 45,
+      "accuracy": 0.95,
+      "precision": 0.9166666666666666,
+      "recall": 0.55,
+      "specificity": 0.9944444444444445,
+      "balanced_accuracy": 0.7722222222222223,
+      "f1": 0.6875,
+      "f2": 0.5978260869565217
+    }
+  ],
+  "sha256": {
+    "data/test_dataset.csv": "0d2ed9d82e9dc38a2e676db096babfbe9e3e3887f19920cad34eee2c7071d285",
+    "data/test_labels.csv": "6cbec6e45176326300214b6fb3bb5ad5d7519923ea7695c444eb8d4d6ceba43e",
+    "models/model_apollo.pth": "0807bcb6fed1c832fcac97e27b7c6415e2c113594bad0f8bc02063c32725a527",
+    "models/model_ares.pth": "bae94c0c496596c2add6cea248eff8f488585cd7d9298f16c6668fa871267ea5",
+    "models/model_athena.pth": "48572235b26f7e1b9d996bfe027c6a64be7ac63bd8bfb3be590c6a593d05accd"
+  }
+}
