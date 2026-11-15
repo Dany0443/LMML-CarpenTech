@@ -1,6 +1,6 @@
 # LMML CarpenTech
 
-This repository contains our solutions to the Sigmoid tasks, with code and evidence for each result. Each completed task README explains the problem, our approach, why it fits the task, how to run it, and where to find the supporting results.
+This repository contains our solutions to the [Sigmoid](https://sigmoid.academy/) tasks, with code and evidence for each result. Each completed task README explains the problem, our approach, why it fits the task, how to run it, and where to find the supporting results.
 
 ## Team
 
