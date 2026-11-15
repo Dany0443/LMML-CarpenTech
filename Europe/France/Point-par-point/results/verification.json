@@ -1,0 +1,26 @@
+{
+  "listings": 28108,
+  "selected_listings": 2038,
+  "letter_clusters": 6,
+  "cluster_sizes": [
+    292,
+    312,
+    384,
+    324,
+    383,
+    343
+  ],
+  "median_prices": [
+    98.75,
+    130.75,
+    183.0,
+    247.435,
+    320.0,
+    496.33
+  ],
+  "labels_identical_to_previous_commit": true,
+  "input_rows_preserved": true,
+  "source_sha256": "7c4f5c573678f30651e7dde0da7b6587e384a8b52fa8ca4eae11c00f8312ff8f",
+  "flag": "SIGMOID_NEURON",
+  "reading_method": "Manual reading of the PCA figure; not automatic letter recognition."
+}
