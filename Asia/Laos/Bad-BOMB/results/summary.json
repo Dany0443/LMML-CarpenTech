@@ -1,0 +1,9 @@
+{
+  "images": 1241,
+  "selected": 28,
+  "chromatic_candidates": 16,
+  "pca_additions": 12,
+  "pca_components": 3,
+  "labels_used": false,
+  "ground_truth_accuracy": null
+}

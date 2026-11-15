@@ -1,0 +1,15 @@
+{
+  "submission-1": {
+    "matches": 19,
+    "guesses": 28,
+    "accuracy": 0.6785714285714286,
+    "passed": false
+  },
+  "submission-2": {
+    "guesses": 28,
+    "passed": true,
+    "confirmation": "User confirmed the platform accepted this submission.",
+    "matches": null,
+    "accuracy": null
+  }
+}

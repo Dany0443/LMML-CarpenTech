@@ -1,0 +1,11 @@
+{
+  "removed": [
+    "image_0428.png",
+    "image_0714.png"
+  ],
+  "added": [
+    "image_0269.png",
+    "image_0408.png"
+  ],
+  "method": "Replace two weakest initial choices with the two strongest unselected images under the independent patch-feature ranking."
+}
