@@ -1,0 +1,115 @@
+{
+  "questions": 20,
+  "passing_questions": 20,
+  "tokens": 1160,
+  "budget": 1200,
+  "minimum_passing_tokens": 1160,
+  "configurations_checked": 320,
+  "naive_tokens": 3626,
+  "naive_quality_passes": true,
+  "tokens_saved": 2466,
+  "quality_gate": true,
+  "budget_gate": true,
+  "per_question": {
+    "q01": {
+      "answer": "Dakar; Atlantic Ocean.",
+      "tokens": 40,
+      "pass": true
+    },
+    "q02": {
+      "answer": "CFA franc; West African Economic and Monetary Union.",
+      "tokens": 65,
+      "pass": true
+    },
+    "q03": {
+      "answer": "French; Wolof.",
+      "tokens": 37,
+      "pass": true
+    },
+    "q04": {
+      "answer": "groundnut; Peanut Basin.",
+      "tokens": 79,
+      "pass": true
+    },
+    "q05": {
+      "answer": "June to October; November to May.",
+      "tokens": 78,
+      "pass": true
+    },
+    "q06": {
+      "answer": "Mauritania; Mali; Guinea; Guinea-Bissau.",
+      "tokens": 74,
+      "pass": true
+    },
+    "q07": {
+      "answer": "hospitality; national symbol.",
+      "tokens": 77,
+      "pass": true
+    },
+    "q08": {
+      "answer": "1960; Leopold Sedar Senghor.",
+      "tokens": 76,
+      "pass": true
+    },
+    "q09": {
+      "answer": "millet; sorghum.",
+      "tokens": 36,
+      "pass": true
+    },
+    "q10": {
+      "answer": "restore soil fertility; groundnuts fix nitrogen.",
+      "tokens": 66,
+      "pass": true
+    },
+    "q11": {
+      "answer": "Kaolack; Kaolack region.",
+      "tokens": 47,
+      "pass": true
+    },
+    "q12": {
+      "answer": "planted in June; harvested in October.",
+      "tokens": 77,
+      "pass": true
+    },
+    "q13": {
+      "answer": "aflatoxin.",
+      "tokens": 58,
+      "pass": true
+    },
+    "q14": {
+      "answer": "groundnut oil.",
+      "tokens": 36,
+      "pass": true
+    },
+    "q15": {
+      "answer": "Atlantic Ocean; Guinea.",
+      "tokens": 43,
+      "pass": true
+    },
+    "q16": {
+      "answer": "Dakar Rally.",
+      "tokens": 38,
+      "pass": true
+    },
+    "q17": {
+      "answer": "Dakar; Thies.",
+      "tokens": 66,
+      "pass": true
+    },
+    "q18": {
+      "answer": "Wolof; about 40%.",
+      "tokens": 68,
+      "pass": true
+    },
+    "q19": {
+      "answer": "Lions of Teranga.",
+      "tokens": 35,
+      "pass": true
+    },
+    "q20": {
+      "answer": "cotton; fish; phosphates.",
+      "tokens": 64,
+      "pass": true
+    }
+  }
+}
