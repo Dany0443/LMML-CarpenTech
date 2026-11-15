@@ -1,0 +1,44 @@
+{
+  "input": "darkened.png",
+  "source_prediction": {
+    "class_id": 671,
+    "target_confidence": 0.006720257457345724
+  },
+  "saved_prediction": {
+    "class_id": 665,
+    "target_confidence": 0.9991859793663025
+  },
+  "max_pixel_delta": 1,
+  "changed_channels": 143641,
+  "output_bytes": 105932,
+  "dimensions": [
+    224,
+    224
+  ],
+  "mode": "RGB",
+  "format": "PNG",
+  "wall_seconds": 1.6426486150012352,
+  "child_peak_rss_mib": 405.94921875,
+  "checks": {
+    "class": true,
+    "confidence": true,
+    "pixel_budget": true,
+    "format": true,
+    "size": true,
+    "runtime": true,
+    "no_extra_files": true
+  },
+  "pass": true,
+  "checkpoint_sha256": "5c1a416349c4cf298f2a6a5e2600ed0ee55e604713578f5e74e6bc8bcaef7997",
+  "script_sha256": "0468a6eab45acf94dc2b3263908badd1b079465c30573f182ff2dab6c509e720",
+  "input_sha256": "0036c46ab83390d068bf15288619ac31571733455fd0eddd0a07cd65fae7ebf1",
+  "png_sha256": "4dd19a211b8cc0bdf76d53acc0baa9ce5982b9baf9c8654cffce5d6bd9d8e95f",
+  "versions": {
+    "python": "3.11.17",
+    "torch": "2.6.0+cpu",
+    "torchvision": "0.21.0+cpu",
+    "numpy": "2.2.4"
+  },
+  "stdout": "class=665 (moped) p_target=0.999186 max_delta=1 bytes=105932 time=0.3s ok=True",
+  "stderr": "iters=9 p=0.99919"
+}
