@@ -1,0 +1,10 @@
+{
+  "standalone": true,
+  "rows": 6048,
+  "runtime_seconds": 0.03153281000413699,
+  "csv_valid": true,
+  "export_matches_trained_policy": true,
+  "practice_mean": 5.9625,
+  "practice_ratio": 2.394578313253012,
+  "local_pass": true
+}
